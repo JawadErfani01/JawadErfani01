@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Jawad Erfani</h1>
-<h3 align="center">software engineer and MERN developer from Afghanistan</h3>
+<h3 align="center">Software Engineer and MERN developer from Afghanistan</h3>
 
 <p align="center">Currently, I am MERN  Developer at <a href="https://rahanet.af/">Rahanet ISP</a>. I'm a self-taught developer who loves to challenge and find solutions, building efficient projects both for clients and to enhance my skillset.</p>
 
@@ -78,16 +78,16 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS3" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="React" title="React" />
+		<img height="50" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"  />
 	<img height="50" src="https://img.shields.io/badge/-05122A?style=flat&logo=Express"  />
-	<img height="50" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"  />
+
   
 
  
   <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="Mongodb" title="Mongodb" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
-  	
-	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+
 
 	
 </div>
