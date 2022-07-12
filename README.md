@@ -36,8 +36,6 @@
 
 - 🎓 I have a **bachelor's degree** in Computer Science (software engineering). Obtained from the Herat University, Afghanistan.
 
-- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
-
 - 🌱 I’m currently learning NodeJs.
 
 - 💻 All **my projects** are available [here](https://github.com/JawadErfani01)
