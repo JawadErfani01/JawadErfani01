@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Jawad Erfani</h1>
 <h3 align="center">Software Engineer and MERN developer from Afghanistan</h3>
 
-<p align="center">Currently Research for remote jobs,and also a self-taught developer who loves to challenge and find solutions, building efficient projects both for clients and to enhance my skillset.</p>
+<p align="center">Currently learning Web3 and Research for remote jobs,and also a self-taught developer who loves to challenge and find solutions, building efficient projects both for clients and to enhance my skillset.</p>
 
 <a href="https://github.com/JawadErfani01/JawadErfani01"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
