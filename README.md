@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there👋, I'm Jawad Erfani</h1>
-<h3 align="center">Software Engineer and MERN developer from Afghanistan</h3>
+<h3 align="center">Software Engineer and Frontend developer from Afghanistan</h3>
 
 <p align="center">Currently learning Web3 and Research for remote jobs,and also a self-taught developer who loves to challenge and find solutions, building efficient projects both for clients and to enhance my skillset.</p>
 
@@ -17,9 +17,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![Node](https://img.shields.io/badge/-Node-05122A?style=flat&logo=Node)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=Mongodb)&nbsp;
+![ReactNative](https://img.shields.io/badge/-Node-05122A?style=flat&logo=ReactNative)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -36,7 +34,7 @@
 
 - 🎓 I have a **bachelor's degree** in Computer Science (software engineering). Obtained from the Herat University, Afghanistan.
 
-- 🌱 I’m currently learning NodeJs.
+- 🌱 I’m currently Searching for Remote job.
 
 - 💻 All **my projects** are available [here](https://github.com/JawadErfani01)
 
@@ -76,13 +74,10 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS3" />
   <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" alt="React" title="React" />
-		<img height="50" src="https://w7.pngwing.com/pngs/322/725/png-transparent-node-js-javascript-npm-express-js-sharp-miscellaneous-angle-text-thumbnail.png"  />
-	<img height="50" src="https://img.shields.io/badge/-05122A?style=flat&logo=Express"  />
+	<img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/reactNative.svg" alt="React Native" title="ReactNative" />
+
 
   
-
- 
-  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mongodb.svg" alt="Mongodb" title="Mongodb" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
 
