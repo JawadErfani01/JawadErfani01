@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Jawad Erfani</h1>
 <h3 align="center">Software Engineer and Frontend developer from Afghanistan</h3>
 
-<p align="center">Currently learning Web3 and Research for remote jobs,and also a self-taught developer who loves to challenge and find solutions, building efficient projects both for clients and to enhance my skillset.</p>
+<p align="center">Currently, I am actively involved in various projects and conducting research on remote jobs. As a self-taught developer, I am passionate about taking on challenges and finding innovative solutions. My goal is to build efficient projects that cater to clients' requirements while further enhancing my skills.</p>
 
 <a href="https://github.com/JawadErfani01/JawadErfani01"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -34,13 +34,13 @@
 
 - 🎓 I have a **bachelor's degree** in Computer Science (software engineering). Obtained from the Herat University, Afghanistan.
 
-- 🌱 I’m currently Searching for Remote job.
+- 🌱 I’m currently searching for a Remote job.
 
 - 💻 All **my projects** are available [here](https://github.com/JawadErfani01)
 
-- 📫 Reach me on: 📧 jawaderfani147@gmail.com
+- 📫 Reach me on 📧 jawaderfani147@gmail.com
 
-- ✨ Interests: coding, reading, find solution, Exercise 🏃‍♂️ 
+- ✨ Interests: coding, reading, finding solutions, Exercise 🏃‍♂️ 
 
 
 
