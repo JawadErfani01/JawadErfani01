@@ -1,14 +1,27 @@
 <!-- Profile Header -->
-<img src="https://github.com/JawadErfani01/JawadErfani01/blob/main/banner.jpg?raw=true" width="100%" alt="Welcome Banner"/>
+<div align="center">
 
-<h1 align="center">👋 Hey, I'm Jawad Erfani</h1>
-<h3 align="center">💻 Software Engineer | 🌐 Frontend Developer | 🚀 Remote Job Seeker</h3>
+  <!-- Banner -->
+  <img 
+    src="https://github.com/JawadErfani01/JawadErfani01/blob/main/banner.jpg?raw=true" 
+    alt="Welcome Banner"
+    width="90%" 
+    style="max-width:1000px; border-radius:16px; box-shadow:0 6px 16px rgba(0,0,0,0.4);" 
+  />
 
-<p align="center">
+  <!-- Intro Titles -->
+  <h1>👋 Hey, I'm <span style="color:#2F81F7;">Jawad Erfani</span></h1>
+  <h3>💻 Software Engineer | 🌐 Frontend Developer | 🚀 Remote Job Seeker</h3>
+
+  <!-- Typing SVG -->
   <a href="https://github.com/JawadErfani01">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Software+Engineer;Open+Source+Contributor;UI%2FUX+Explorer;Always+Learning+New+Things">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Software+Engineer;Open+Source+Contributor;UI%2FUX+Explorer;Always+Learning+New+Things"
+      alt="Typing animation"
+    />
   </a>
-</p>
+
+</div>
 
 ---
 
@@ -20,6 +33,7 @@
 - ⚡ Interests: Coding 💻 | Reading 📚 | Fitness 🏃‍♂️ | Problem Solving 🧩  
 
 ---
+
 
 ### 🛠 Tech Stack
 
@@ -57,7 +71,7 @@
   <a href="https://www.linkedin.com/in/jawad-erfani-610197195/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/JawadErfani01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/JawadErfani01"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://jawaderfani01.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://jawaderfani.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -67,6 +81,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
+
 
 
