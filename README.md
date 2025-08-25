@@ -69,7 +69,4 @@
 
 ---
 
-### 🖼️ Featured Project Screenshot
-<p align="center">
-  <img src="https://github.com/JawadErfani01/JawadErfani01/blob/main/project-preview.png?raw=true" width="600" alt="Project Preview"/>
-</p>
+
