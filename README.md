@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<img src="https://github.com/JawadErfani01/JawadErfani01/blob/main/banner.png?raw=true" width="100%" alt="Welcome Banner"/>
+<img src="https://github.com/JawadErfani01/JawadErfani01/blob/main/banner.jpg?raw=true" width="100%" alt="Welcome Banner"/>
 
 <h1 align="center">👋 Hey, I'm Jawad Erfani</h1>
 <h3 align="center">💻 Software Engineer | 🌐 Frontend Developer | 🚀 Remote Job Seeker</h3>
